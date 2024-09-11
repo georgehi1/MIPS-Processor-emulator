@@ -1,0 +1,2 @@
+#define CYCLE_LIMIT 4096
+#define RAM_SIZE 0x4000
